@@ -1,0 +1,26 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "You can post a new comment and see them.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzinkhaleghian/post.git"
+  },
+  "author": "Farzin Khaleghian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farzinkhaleghian/post/issues"
+  },
+  "homepage": "https://github.com/farzinkhaleghian/post#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
